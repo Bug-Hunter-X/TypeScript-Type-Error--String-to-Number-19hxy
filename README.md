@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript type error and its solution. The bug occurs when a string value is passed to a function expecting a number. The solution involves type guards or type assertions to handle the potential type mismatch.
